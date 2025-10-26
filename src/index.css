@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%), url('./assets/Background/IASBackground.png') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  color: #f3f3f3;
+}
